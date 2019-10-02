@@ -12,6 +12,7 @@
     <textarea type="text" name="message"></textarea>
     <input type="submit" name="button" value="Wyslij">
     <br>
+    <br>
 
 <?php
     $message=$_POST['message'];
